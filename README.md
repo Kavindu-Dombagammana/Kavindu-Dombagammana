@@ -1,7 +1,9 @@
 <p align="center">
-  <h1 align="center">Hello, I'm Kavindu 👋(●'◡'●) </h1>
+  <h1 align="center">Hello, I'm Kavindu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />(●'◡'●) </h1>
 </p>
 <br>
+The page is still updating
+
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ADD8E6&size=35&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
@@ -13,11 +15,10 @@
   </ul>
 </div>
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Diploma In Software Engineering at [Institute Of Computer Engineering Technology](https://icet.lk/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 I currently studies for Diploma In Software Engineering at [Institute Of Computer Engineering Technology](https://icet.lk/)
+- 🏢 Former **Bug Bounty Hunter** at [BugCrowd](https://www.bugcrowd.com/)
+- 🏡'Lives in **Sri Lanka**
+- ⚡ I like to draw, play games or read when im not programming
 
 <img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
