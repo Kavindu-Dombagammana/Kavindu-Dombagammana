@@ -46,7 +46,8 @@ The page is still updating
   </ul>
 </div> 
 
-[![@kavindu-prabashwara](https://img.icons8.com/fluency/48/000000/linkedin.png "@kavindu-prabashwara")](www.linkedin.com/in/kavindu-prabashwara-a7a4a63ab)[![@godlikeboot@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@godlikeboot@gmail.com")](godlikeboot@gmail.com)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-linkedin.svg" width="30px">](www.linkedin.com/in/kavindu-prabashwara-a7a4a63ab)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:godlikeboot@gmail.com)
 
 <br><br><br><br>
 
